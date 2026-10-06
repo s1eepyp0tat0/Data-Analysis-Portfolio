@@ -2,13 +2,9 @@
 
 [中文](./README.md) | **English**
 
-Welcome to my Data Analysis Portfolio!
-
 This repository showcases hands-on data analysis projects using **SQL, Python, Power BI, and Excel**. The projects cover multiple stages of a typical analytics workflow:
 
 **Data Collection → Data Cleaning → Data Exploration → Analysis → Visualization**
-
-My goal is to demonstrate practical skills in working with raw data, transforming it into structured datasets, exploring patterns, and presenting insights clearly.
 
 ---
 
@@ -135,8 +131,6 @@ Data-Analysis-Portfolio/
 ---
 
 ## 🎯 Portfolio Purpose
-
-This portfolio is designed to demonstrate practical data analytics skills through hands-on projects.
 
 The projects cover several parts of the analytics workflow, including data collection, data cleaning, SQL querying, exploratory analysis, Python data processing, web scraping, and data visualization.
 
